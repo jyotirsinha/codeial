@@ -13,6 +13,3 @@ db.once('open', function(){
 
 
 module.exports = db;
-//try this lat time
-// sory dear i have to close that bcz not able to solve this
-//ok
